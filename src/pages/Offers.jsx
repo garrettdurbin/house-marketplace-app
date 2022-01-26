@@ -78,7 +78,7 @@ function Category() {
               ))}
             </ul>
           </main>
-        </> : <p>No listings for {params.categoryName}</p>}
+        </> : <p>No offers</p>}
     </div>
   );
 }
