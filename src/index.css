@@ -604,6 +604,7 @@ button {
   display: flex;
   flex-direction: column;
   margin-bottom: 4rem;
+  height: 30vh
 }
 
 .messageLabel {
