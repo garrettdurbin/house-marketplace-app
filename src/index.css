@@ -25,6 +25,10 @@ button {
   border: none;
 }
 
+main {
+  height: 100vh;
+}
+
 .input,
 .passwordInput,
 .emailInput,
