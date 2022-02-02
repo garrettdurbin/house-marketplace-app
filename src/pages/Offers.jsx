@@ -121,7 +121,7 @@ function Category() {
           <br />
           <br />
 
-          {lastFetchedListing && (
+          {lastFetchedListing && listings.length > 10 && (
             <p className="loadMore" onClick={onFetchMoreListings}>
               Load More
             </p>
